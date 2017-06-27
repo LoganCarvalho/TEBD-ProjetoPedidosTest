@@ -6,4 +6,3 @@
  {"idParticipante":6, "nome":"Murphy, Dalton K.", "endereco":"P.O. Box 216, 9202 Ipsum Rd.", "email":"congue.a.aliquet@purus.org", "localEmpregoParticipante":"North Island"},
  {"idParticipante":7, "nome":"Hickman, Quon U.", "endereco":"Ap #221-8856 Nulla Avenue", "email":"est.congue.a@ipsum.org", "localEmpregoParticipante":"Midi-Pyr\u00e9n\u00e9es"},
  {"idParticipante":8, "nome":"Crane, Lee G.", "endereco":"Ap #390-8736 Enim Ave", "email":"sollicitudin@Proin.edu", "localEmpregoParticipante":"Akwa Ibom"},
- {"idParticipante":9, "nome":"Heath, Karina X.", "endereco":"P.O. Box 592, 9355 Odio Street", "email":"erat.Sed@non.net", "localEmpregoParticipante":"BE"}]}
