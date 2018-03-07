@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1?>
+	<importacao tipo="cadastro">
+		<registro id="1">
+			<campo></campo>
+			<versao></versao>
+			<cnpj></cnpj>
+			<cnpj_rh> </cnpj_rh>
+			<matricula> </matricula>
+			<cargo_id> </cargo_id>
+			<cargo_nome> </cargo_nome>
+			<cbo></cbo>
+			<data_mud_cargo></data_mud_cargo>
+			<area_id></area_id>
+			<area_nome></area_nome>
+			<area_apelido></area_apelido>
+			<area_pai></area_pai>
+			<area_pai_nome></area_pai_nome>
+			<area_pai_apelido></area_pai_apelido>
+			<data_mud_area></data_mud_area>
+			<setor_id></setor_id>
+			<setor_nome></setor_nome>
+			<setor_nome_apelido></setor_nome_apelido>
+			<setor_pai></setor_pai>
+			<setor_pai_nome></setor_pai_nome>
+			<setor_pai_apelido></setor_pai_apelido>
+			<data_mud_setor></data_mud_setor>
+			<funcao_id></funcao_id>
+			<funcao></funcao>
+			<data_mud_funcao></data_mud_funcao>
+			<nome></nome>
+			<dt_nasc></dt_nasc>
+			<dt_adm></dt_adm>
+			<sexo></sexo>
+			<est_civil></est_civil>
+			<endereco></endereco>
+			<complemento></complemento>
+			<bairro_emp></bairro_emp>
+			<cep></cep>
+			<estado></estado>
+			<cidade></cidade>
+			<tel1></tel1>
+			<tel2></tel2>
+			<tel3></tel3>
+			<cpf></cpf>
+			<gr_sang></gr_sang>
+			<rh></rh>
+			<raca></raca>
+			<procedencia></procedencia>
+			<naturalidade></naturalidade>
+			<email></email>
+			<situacao></situacao>
+			<data_mud_situacao></data_mud_situacao>
+			<rg></rg>
+			<orgao></orgao>
+			<uf_rg></uf_rg>
+			<rg_emissao></rg_emissao>
+			<nit></nit>
+			<ctps_num></ctps_num>
+			<ctps_serie></ctps_serie>
+			<ctps_uf></ctps_uf>
+			<ctps_emissao></ctps_emissao>
+			<codgfip></codgfip>
+			<br_pdh></br_pdh>
+			<regime_revezamento></regime_revezamento>
+			<turma></turma>
+			<foto></foto>
+			<matricula_temporaria></matricula_temporaria>
+			<descricao_cargo></descricao_cargo>
+			<nome_mae></nome_mae>
+			<contato_emergencia_nome></contato_emergencia_nome>
+			<contato_emergencia_tel></contato_emergencia_tel>
+			<def_fisica></def_fisica>
+			<def_visual></def_visual>
+			<def_visual></def_visual>
+			<def_multipla></def_multipla>
+			<def_auditiva></def_auditiva>
+			<doador></doador>
+			<usuario_id></usuario_id>	
+		</registro>
+	</importacao>
