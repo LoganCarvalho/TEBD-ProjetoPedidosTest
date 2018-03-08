@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 	<importacao tipo="cadastro">
 		<registro id="1">
-			<campo></campo>
-			<versao></versao>
-			<cnpj></cnpj>
-			<cnpj_rh> </cnpj_rh>
-			<matricula> </matricula>
-			<cargo_id> </cargo_id>
-			<cargo_nome> </cargo_nome>
-			<cbo></cbo>
-			<data_mud_cargo></data_mud_cargo>
-			<area_id></area_id>
-			<area_nome></area_nome>
+			<campo>cadastro</campo>
+			<versao>v2017.R.01-20170218</versao>
+			<cnpj>013573332000107</cnpj>
+			<cnpj_rh>013573332000107</cnpj_rh>
+			<matricula>112581</matricula>
+			<cargo_id>00287</cargo_id>
+			<cargo_nome>MECANICO MANUTENCAO</cargo_nome>
+			<cbo>911320</cbo>
+			<data_mud_cargo>19940217</data_mud_cargo>
+			<area_id>21130002</area_id>
+			<area_nome>OFICINA MECANICA</area_nome>
 			<area_apelido></area_apelido>
 			<area_pai></area_pai>
 			<area_pai_nome></area_pai_nome>
 			<area_pai_apelido></area_pai_apelido>
-			<data_mud_area></data_mud_area>
-			<setor_id></setor_id>
-			<setor_nome></setor_nome>
-			<setor_nome_apelido></setor_nome_apelido>
+			<data_mud_area>19940217</data_mud_area>
+			<setor_id>21130002</setor_id>
+			<setor_nome>OFICINA MECANICA</setor_nome>
+			<setor_nome_apelido>OFICINA MECANICA</setor_nome_apelido>
 			<setor_pai></setor_pai>
 			<setor_pai_nome></setor_pai_nome>
 			<setor_pai_apelido></setor_pai_apelido>
-			<data_mud_setor></data_mud_setor>
+			<data_mud_setor>19940217</data_mud_setor>
 			<funcao_id></funcao_id>
 			<funcao></funcao>
 			<data_mud_funcao></data_mud_funcao>
-			<nome></nome>
-			<dt_nasc></dt_nasc>
-			<dt_adm></dt_adm>
-			<sexo></sexo>
-			<est_civil></est_civil>
+			<nome>GILDASIO DE JESUS CHAGAS</nome>
+			<dt_nasc>19730401</dt_nasc>
+			<dt_adm>19940217|</dt_adm>
+			<sexo>M</sexo>
+			<est_civil>2</est_civil>
 			<endereco></endereco>
 			<complemento></complemento>
 			<bairro_emp></bairro_emp>
@@ -41,20 +41,20 @@
 			<tel1></tel1>
 			<tel2></tel2>
 			<tel3></tel3>
-			<cpf></cpf>
+			<cpf>432.022.095-15</cpf>
 			<gr_sang></gr_sang>
 			<rh></rh>
 			<raca></raca>
 			<procedencia></procedencia>
 			<naturalidade></naturalidade>
 			<email></email>
-			<situacao></situacao>
-			<data_mud_situacao></data_mud_situacao>
+			<situacao>5</situacao>
+			<data_mud_situacao>20090213</data_mud_situacao>
 			<rg></rg>
 			<orgao></orgao>
 			<uf_rg></uf_rg>
 			<rg_emissao></rg_emissao>
-			<nit></nit>
+			<nit>12511815348 </nit>
 			<ctps_num></ctps_num>
 			<ctps_serie></ctps_serie>
 			<ctps_uf></ctps_uf>
