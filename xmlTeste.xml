@@ -1,80 +1,81 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-	<importacao tipo="cadastro">
-		<registro id="1">
-			<campo>cadastro</campo>
-			<versao>v2017.R.01-20170218</versao>
-			<cnpj>013573332000107</cnpj>
-			<cnpj_rh>013573332000107</cnpj_rh>
-			<matricula>112581</matricula>
-			<cargo_id>00287</cargo_id>
-			<cargo_nome>MECANICO MANUTENCAO</cargo_nome>
-			<cbo>911320</cbo>
-			<data_mud_cargo>19940217</data_mud_cargo>
-			<area_id>21130002</area_id>
-			<area_nome>OFICINA MECANICA</area_nome>
-			<area_apelido></area_apelido>
-			<area_pai></area_pai>
-			<area_pai_nome></area_pai_nome>
-			<area_pai_apelido></area_pai_apelido>
-			<data_mud_area>19940217</data_mud_area>
-			<setor_id>21130002</setor_id>
-			<setor_nome>OFICINA MECANICA</setor_nome>
-			<setor_nome_apelido>OFICINA MECANICA</setor_nome_apelido>
-			<setor_pai></setor_pai>
-			<setor_pai_nome></setor_pai_nome>
-			<setor_pai_apelido></setor_pai_apelido>
-			<data_mud_setor>19940217</data_mud_setor>
-			<funcao_id></funcao_id>
-			<funcao></funcao>
-			<data_mud_funcao></data_mud_funcao>
-			<nome>GILDASIO DE JESUS CHAGAS</nome>
-			<dt_nasc>19730401</dt_nasc>
-			<dt_adm>19940217</dt_adm>
-			<sexo>M</sexo>
-			<est_civil>2</est_civil>
-			<endereco></endereco>
-			<complemento></complemento>
-			<bairro_emp></bairro_emp>
-			<cep></cep>
-			<estado></estado>
-			<cidade></cidade>
-			<tel1></tel1>
-			<tel2></tel2>
-			<tel3></tel3>
-			<cpf>432.022.095-15</cpf>
-			<gr_sang></gr_sang>
-			<rh></rh>
-			<raca></raca>
-			<procedencia></procedencia>
-			<naturalidade></naturalidade>
-			<email></email>
-			<situacao>5</situacao>
-			<data_mud_situacao>20090213</data_mud_situacao>
-			<rg></rg>
-			<orgao></orgao>
-			<uf_rg></uf_rg>
-			<rg_emissao></rg_emissao>
-			<nit>12511815348 </nit>
-			<ctps_num></ctps_num>
-			<ctps_serie></ctps_serie>
-			<ctps_uf></ctps_uf>
-			<ctps_emissao></ctps_emissao>
-			<codgfip></codgfip>
-			<br_pdh></br_pdh>
-			<regime_revezamento></regime_revezamento>
-			<turma></turma>
-			<foto></foto>
-			<matricula_temporaria></matricula_temporaria>
-			<descricao_cargo></descricao_cargo>
-			<nome_mae></nome_mae>
-			<contato_emergencia_nome></contato_emergencia_nome>
-			<contato_emergencia_tel></contato_emergencia_tel>
-			<def_fisica></def_fisica>
-			<def_visual></def_visual>
-			<def_visual></def_visual>
-			<def_multipla></def_multipla>
-			<def_auditiva></def_auditiva>
-			<doador></doador>
-			<usuario_id></usuario_id>	
-		</registro>
-	</importacao>
+<IMPORTACAO TIPO="CADASTRO">
+	<REGISTRO ID="1">
+		<C0>1</C0>
+		<CAMPO>cadastro</CAMPO>
+		<VERSAO>v2017.R.01-20170218</VERSAO>
+		<CNPJ>013573332000107</CNPJ>
+		<CNPJ_RH>013573332000107</CNPJ_RH>
+		<MATRICULA>113931</MATRICULA>
+		<CARGO_ID>00363</CARGO_ID>
+		<CARGO_NOME>AUXILIAR ADMINISTRATIVO</CARGO_NOME>
+		<CBO>411005</CBO>
+		<DATA_MUD_CARGO>20000501</DATA_MUD_CARGO>
+		<AREA_ID>21400097  </AREA_ID>
+		<AREA_NOME>READAPTADOS</AREA_NOME>
+		<AREA_APELIDO>READAPTADOS</AREA_APELIDO>
+		<AREA_PAI></AREA_PAI>
+		<AREA_PAI_NOME></AREA_PAI_NOME>
+		<AREA_PAI_APELIDO></AREA_PAI_APELIDO>
+		<DATA_MUD_AREA>20000501</DATA_MUD_AREA>
+		<SETOR_ID>21400097  </SETOR_ID>
+		<SETOR_NOME>READAPTADOS                   </SETOR_NOME>
+		<SETOR_NOME_APELIDO>READAPTADOS</SETOR_NOME_APELIDO>
+		<SETOR_PAI></SETOR_PAI>
+		<SETOR_PAI_NOME></SETOR_PAI_NOME>
+		<SETOR_PAI_APELIDO></SETOR_PAI_APELIDO>
+		<DATA_MUD_SETOR>20000501</DATA_MUD_SETOR>
+		<FUNCAO_ID></FUNCAO_ID>
+		<FUNCAO></FUNCAO>
+		<DATA_MUD_FUNCAO></DATA_MUD_FUNCAO>
+		<NOME>PAULO N ALELUIA MIRANDA</NOME>
+		<DT_NASC>19630606</DT_NASC>
+		<DT_ADM>20000501</DT_ADM>
+		<SEXO>M</SEXO>
+		<EST_CIVIL>2</EST_CIVIL>
+		<ENDERECO></ENDERECO>
+		<COMPLEMENTO></COMPLEMENTO>
+		<BAIRRO_EMP></BAIRRO_EMP>
+		<CEP></CEP>
+		<ESTADO></ESTADO>
+		<CIDADE></CIDADE>
+		<TEL1></TEL1>
+		<TEL2></TEL2>
+		<TEL3></TEL3>
+		<CPF> 328.396.935-34</CPF>
+		<GR_SANG></GR_SANG>
+		<RH></RH>
+		<RACA></RACA>
+		<PROCEDENCIA></PROCEDENCIA>
+		<NATURALIDADE></NATURALIDADE>
+		<EMAIL></EMAIL>
+		<SITUACAO>4</SITUACAO>
+		<DATA_MUD_SITUACAO>20000501</DATA_MUD_SITUACAO>
+		<RG>1714348        </RG>
+		<ORGAO>SSP</ORGAO>
+		<UF_RG>BA</UF_RG>
+		<RG_EMISSAO>19850924</RG_EMISSAO>
+		<NIT>12177132438 </NIT>
+		<CTPS_NUM>96122  </CTPS_NUM>
+		<CTPS_SERIE>10   </CTPS_SERIE>
+		<CTPS_UF>BA</CTPS_UF>
+		<CTPS_EMISSAO>19970514</CTPS_EMISSAO>
+		<CODGFLIP></CODGFLIP>
+		<BR_PDH></BR_PDH>
+		<REGIME_REVEZAMENTO></REGIME_REVEZAMENTO>
+		<TURMA></TURMA>
+		<FOTO></FOTO>
+		<MATRICULA_TEMOPORARIO></MATRICULA_TEMOPORARIO>
+		<DESCRICAO_CARGO></DESCRICAO_CARGO>
+		<NOME_MAE></NOME_MAE>
+		<CONTATO_EMERGENCIA_NOME></CONTATO_EMERGENCIA_NOME>
+		<CONTATO_EMERGENCIA_TEL></CONTATO_EMERGENCIA_TEL>
+		<DEF_FISICA></DEF_FISICA>
+		<DEF_VISUAL></DEF_VISUAL>
+		<DEF_MENTAL></DEF_MENTAL>
+		<DEF_MULTIPLA></DEF_MULTIPLA>
+		<DEF_AUDITIVA></DEF_AUDITIVA>
+		<DOADOR></DOADOR>
+		<USUARIO_ID>jcarvalho</USUARIO_ID>
+	</REGISTRO>
+</IMPORTACAO>
