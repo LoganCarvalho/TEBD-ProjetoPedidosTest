@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <IMPORTACAO TIPO="CADASTRO">
 	<REGISTRO ID="1">
-		<C0>1</C0>
 		<CAMPO>cadastro</CAMPO>
 		<VERSAO>v2017.R.01-20170218</VERSAO>
 		<CNPJ>013573332000107</CNPJ>
